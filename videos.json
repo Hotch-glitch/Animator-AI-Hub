@@ -1,0 +1,775 @@
+{
+  "title": "Animator AI Hub with Hoshi",
+  "categories": [
+    {
+      "id": "human",
+      "name_en": "Human",
+      "name_ja": "人間",
+      "clips": [
+        {
+          "id": "human-01",
+          "model": "Model1",
+          "title": "Clip 1",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "human-02",
+          "model": "Model2",
+          "title": "Clip 2",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "human-03",
+          "model": "Model3",
+          "title": "Clip 3",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "human-04",
+          "model": "Model4",
+          "title": "Clip 4",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "human-05",
+          "model": "Model5",
+          "title": "Clip 5",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "human-06",
+          "model": "Model6",
+          "title": "Clip 6",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "human-07",
+          "model": "Model7",
+          "title": "Clip 7",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "human-08",
+          "model": "Model8",
+          "title": "Clip 8",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "human-09",
+          "model": "Model9",
+          "title": "Clip 9",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "human-10",
+          "model": "Model10",
+          "title": "Clip 10",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "dog",
+      "name_en": "Dog",
+      "name_ja": "犬",
+      "clips": [
+        {
+          "id": "dog-01",
+          "model": "Model1",
+          "title": "Clip 1",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "dog-02",
+          "model": "Model2",
+          "title": "Clip 2",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "dog-03",
+          "model": "Model3",
+          "title": "Clip 3",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "dog-04",
+          "model": "Model4",
+          "title": "Clip 4",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "dog-05",
+          "model": "Model5",
+          "title": "Clip 5",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "dog-06",
+          "model": "Model6",
+          "title": "Clip 6",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "dog-07",
+          "model": "Model7",
+          "title": "Clip 7",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "dog-08",
+          "model": "Model8",
+          "title": "Clip 8",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "dog-09",
+          "model": "Model9",
+          "title": "Clip 9",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "dog-10",
+          "model": "Model10",
+          "title": "Clip 10",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "horse",
+      "name_en": "Horse",
+      "name_ja": "馬",
+      "clips": [
+        {
+          "id": "horse-01",
+          "model": "Model1",
+          "title": "Clip 1",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "horse-02",
+          "model": "Model2",
+          "title": "Clip 2",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "horse-03",
+          "model": "Model3",
+          "title": "Clip 3",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "horse-04",
+          "model": "Model4",
+          "title": "Clip 4",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "horse-05",
+          "model": "Model5",
+          "title": "Clip 5",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "horse-06",
+          "model": "Model6",
+          "title": "Clip 6",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "horse-07",
+          "model": "Model7",
+          "title": "Clip 7",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "horse-08",
+          "model": "Model8",
+          "title": "Clip 8",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "horse-09",
+          "model": "Model9",
+          "title": "Clip 9",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "horse-10",
+          "model": "Model10",
+          "title": "Clip 10",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "chimp",
+      "name_en": "Chimpanzee",
+      "name_ja": "チンパンジー",
+      "clips": [
+        {
+          "id": "chimp-01",
+          "model": "Model1",
+          "title": "Clip 1",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "chimp-02",
+          "model": "Model2",
+          "title": "Clip 2",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "chimp-03",
+          "model": "Model3",
+          "title": "Clip 3",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "chimp-04",
+          "model": "Model4",
+          "title": "Clip 4",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "chimp-05",
+          "model": "Model5",
+          "title": "Clip 5",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "chimp-06",
+          "model": "Model6",
+          "title": "Clip 6",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "chimp-07",
+          "model": "Model7",
+          "title": "Clip 7",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "chimp-08",
+          "model": "Model8",
+          "title": "Clip 8",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "chimp-09",
+          "model": "Model9",
+          "title": "Clip 9",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "chimp-10",
+          "model": "Model10",
+          "title": "Clip 10",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "tiger",
+      "name_en": "Tiger",
+      "name_ja": "虎",
+      "clips": [
+        {
+          "id": "tiger-01",
+          "model": "Model1",
+          "title": "Clip 1",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "tiger-02",
+          "model": "Model2",
+          "title": "Clip 2",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "tiger-03",
+          "model": "Model3",
+          "title": "Clip 3",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "tiger-04",
+          "model": "Model4",
+          "title": "Clip 4",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "tiger-05",
+          "model": "Model5",
+          "title": "Clip 5",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "tiger-06",
+          "model": "Model6",
+          "title": "Clip 6",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "tiger-07",
+          "model": "Model7",
+          "title": "Clip 7",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "tiger-08",
+          "model": "Model8",
+          "title": "Clip 8",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "tiger-09",
+          "model": "Model9",
+          "title": "Clip 9",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "tiger-10",
+          "model": "Model10",
+          "title": "Clip 10",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "parrot",
+      "name_en": "Parrot",
+      "name_ja": "インコ",
+      "clips": [
+        {
+          "id": "parrot-01",
+          "model": "Model1",
+          "title": "Clip 1",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "parrot-02",
+          "model": "Model2",
+          "title": "Clip 2",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "parrot-03",
+          "model": "Model3",
+          "title": "Clip 3",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "parrot-04",
+          "model": "Model4",
+          "title": "Clip 4",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "parrot-05",
+          "model": "Model5",
+          "title": "Clip 5",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "parrot-06",
+          "model": "Model6",
+          "title": "Clip 6",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "parrot-07",
+          "model": "Model7",
+          "title": "Clip 7",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "parrot-08",
+          "model": "Model8",
+          "title": "Clip 8",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "parrot-09",
+          "model": "Model9",
+          "title": "Clip 9",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "parrot-10",
+          "model": "Model10",
+          "title": "Clip 10",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "eagle",
+      "name_en": "Eagle",
+      "name_ja": "ワシ",
+      "clips": [
+        {
+          "id": "eagle-01",
+          "model": "Model1",
+          "title": "Clip 1",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "eagle-02",
+          "model": "Model2",
+          "title": "Clip 2",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "eagle-03",
+          "model": "Model3",
+          "title": "Clip 3",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "eagle-04",
+          "model": "Model4",
+          "title": "Clip 4",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "eagle-05",
+          "model": "Model5",
+          "title": "Clip 5",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "eagle-06",
+          "model": "Model6",
+          "title": "Clip 6",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "eagle-07",
+          "model": "Model7",
+          "title": "Clip 7",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "eagle-08",
+          "model": "Model8",
+          "title": "Clip 8",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "eagle-09",
+          "model": "Model9",
+          "title": "Clip 9",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "eagle-10",
+          "model": "Model10",
+          "title": "Clip 10",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "bat",
+      "name_en": "Bat",
+      "name_ja": "コウモリ",
+      "clips": [
+        {
+          "id": "bat-01",
+          "model": "Model1",
+          "title": "Clip 1",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "bat-02",
+          "model": "Model2",
+          "title": "Clip 2",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "bat-03",
+          "model": "Model3",
+          "title": "Clip 3",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "bat-04",
+          "model": "Model4",
+          "title": "Clip 4",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "bat-05",
+          "model": "Model5",
+          "title": "Clip 5",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "bat-06",
+          "model": "Model6",
+          "title": "Clip 6",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "bat-07",
+          "model": "Model7",
+          "title": "Clip 7",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "bat-08",
+          "model": "Model8",
+          "title": "Clip 8",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "bat-09",
+          "model": "Model9",
+          "title": "Clip 9",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "bat-10",
+          "model": "Model10",
+          "title": "Clip 10",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "dragon",
+      "name_en": "Dragon",
+      "name_ja": "ドラゴン",
+      "clips": [
+        {
+          "id": "dragon-01",
+          "model": "Model1",
+          "title": "Clip 1",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "dragon-02",
+          "model": "Model2",
+          "title": "Clip 2",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "dragon-03",
+          "model": "Model3",
+          "title": "Clip 3",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "dragon-04",
+          "model": "Model4",
+          "title": "Clip 4",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "dragon-05",
+          "model": "Model5",
+          "title": "Clip 5",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "dragon-06",
+          "model": "Model6",
+          "title": "Clip 6",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "dragon-07",
+          "model": "Model7",
+          "title": "Clip 7",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "dragon-08",
+          "model": "Model8",
+          "title": "Clip 8",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "dragon-09",
+          "model": "Model9",
+          "title": "Clip 9",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "dragon-10",
+          "model": "Model10",
+          "title": "Clip 10",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "griffin",
+      "name_en": "Griffin",
+      "name_ja": "グリフォン",
+      "clips": [
+        {
+          "id": "griffin-01",
+          "model": "Model1",
+          "title": "Clip 1",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "griffin-02",
+          "model": "Model2",
+          "title": "Clip 2",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "griffin-03",
+          "model": "Model3",
+          "title": "Clip 3",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "griffin-04",
+          "model": "Model4",
+          "title": "Clip 4",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "griffin-05",
+          "model": "Model5",
+          "title": "Clip 5",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "griffin-06",
+          "model": "Model6",
+          "title": "Clip 6",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "griffin-07",
+          "model": "Model7",
+          "title": "Clip 7",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "griffin-08",
+          "model": "Model8",
+          "title": "Clip 8",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "griffin-09",
+          "model": "Model9",
+          "title": "Clip 9",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        },
+        {
+          "id": "griffin-10",
+          "model": "Model10",
+          "title": "Clip 10",
+          "url": "REPLACE_WITH_YOUR_VIDEO_URL",
+          "enabled": true
+        }
+      ]
+    }
+  ]
+}

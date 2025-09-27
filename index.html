@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Animator AI Hub with Hoshi</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <div class="brand">
+      <h1>Animator AI Hub with Hoshi</h1>
+      <div class="subtitle">Blind Pairwise Ranking · 二択ブラインド評価</div>
+    </div>
+    <div id="status">
+      <span id="categoryLabel">Category: —（カテゴリ）</span>
+      <span id="roundLabel">Round —（ラウンド）</span>
+      <span id="progress">Pair —/—（進捗）</span>
+    </div>
+  </header>
+
+  <main>
+    <div id="stage" class="hidden">
+      <div class="pane left" id="leftPane" tabindex="0" aria-label="Left choice">
+        <video id="leftVideo" muted playsinline preload="auto" loop></video>
+        <button class="pickBtn" id="pickLeft">Choose Left (J)（左を選ぶ）</button>
+      </div>
+      <div class="pane right" id="rightPane" tabindex="0" aria-label="Right choice">
+        <video id="rightVideo" muted playsinline preload="auto" loop></video>
+        <button class="pickBtn" id="pickRight">Choose Right (K)（右を選ぶ）</button>
+      </div>
+    </div>
+
+    <div id="interlude" class="interlude">
+      <div class="card">
+        <h2 id="interludeTitle">Get ready（準備）</h2>
+        <p id="interludeDesc">Press Start to begin the next category.（次のカテゴリを開始）</p>
+        <button id="startBtn" class="primary">Start（開始）</button>
+      </div>
+    </div>
+
+    <div id="results" class="hidden">
+      <div class="card">
+        <h2>Session Results（結果）</h2>
+        <div id="resultsList"></div>
+        <button id="restartBtn" class="secondary">Restart from first category（最初からやり直す）</button>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <div id="hint">
+      Videos are muted and looped. Use J (left) / K (right) keys.（動画はミュート・ループ。J / K キーでも選択可能）
+    </div>
+  </footer>
+
+  <div id="toast" class="hidden"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>
